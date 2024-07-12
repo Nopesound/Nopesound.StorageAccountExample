@@ -1,0 +1,1 @@
+# Nopesound.StorageAccountExample
